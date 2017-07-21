@@ -1,0 +1,83 @@
+1
+Submission ID
+2
+Item ID
+3
+Anonymized Student ID
+4
+Date/Time Response Submitted
+5
+Assessment Details
+6
+Assessment Scores
+7
+
+8
+Date/Time Final Score Given
+9
+Final Score Points Earned
+10
+Final Score Points Possible
+11
+Feedback Statements Selected
+12
+Feedback on Peer Assessments
+1
+b2407d1a-c027-11e6-83e9-12e9e6699b24
+2
+1192641.0
+3
+de25d3dbd8ae06321072513b1f5156f9
+4
+2016-12-12 04:59:01+00:00
+5
+Assessment #2359124
+-- scored_at: 2016-12-18 22:26:57+00:00
+-- type: PE
+-- scorer_id: 878512e5b1ce5dbe96a90cc48dbde23f
+Assessment #2358300
+-- scored_at: 2016-12-18 16:07:59+00:00
+-- type: PE
+-- scorer_id: a55ceaa35ecb162a0851df8b4a6835c6
+Assessment #2323458
+-- scored_at: 2016-12-13 15:54:34+00:00
+-- type: PE
+-- scorer_id: 34f6843aabd98ee3b75f0431af012e84
+Assessment #2318340
+-- scored_at: 2016-12-13 04:53:21+00:00
+-- type: PE
+-- scorer_id: 970f70d7bd081b669dc6cc354aba3918
+Assessment #2314210
+-- scored_at: 2016-12-12 05:11:49+00:00
+-- type: PE
+-- scorer_id: 7b3953061dcd88736a38c59205acd251
+6
+
+-- feedback: It's very good overall! I'm not so sure, but I think you should check the accent on 「シャドーイング」. The accent should be on ド rather than イン. I don't know if this might be a difficulty specific to some Spanish speakers, but take care with the sound of ず, which sounded to me more like す. To me, the rest sounds very good! Congrats and good job!
+
+-- feedback: 「発音が上手」の「上手」（じょうず／jozu）は、「z」の発音をもっと強調したらいいと思います。
+「シャドーイングですか。」は、「か」の声の高が低い声に変更したらいいと思います。
+
+-- feedback: Easy to follow.
+
+-- feedback: Good intonation throughout.
+上手 the ず sounded like a す.
+なった lacked the accent.
+In すか, your pitch rose on か whereas the original drops.
+
+-- feedback: Very clear pronunciation.
+7
+5
+8
+2016-12-19 03:32:12+00:00
+9
+2.0
+10
+2.0
+11
+These assessments were useful.
+These assessments were useful.
+These assessments were useful.
+
+12
+Thanks for the review. I understand better which points I should work in order to improve my pronunciation.
